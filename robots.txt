@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chriskimmes.github.io/reference-bt1vyp/sitemap.xml
